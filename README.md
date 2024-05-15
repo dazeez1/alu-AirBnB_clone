@@ -15,3 +15,5 @@ This is a specifuc use-case Shell scripting tool that will enable us to:
 ## Authors
 * **Azeez Damilare** <[Azeezdamilare](https://github.com/dazeez1)> <d.azeez@alustudent.com>
 * **** <[](https://github.com/)> <@alustudent.com>
+* Ajang Deng *
+* GitHub https://github.com/ajang-deng98 * < a.deng3@alustudent.com >
